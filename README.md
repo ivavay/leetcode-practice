@@ -13,7 +13,7 @@ Daily LeetCode practice focused on building pattern recognition and strengthenin
 
 | # | Problem | Pattern | Difficulty | Status | Time Taken | Date 
 |---|---------|---------|------------|--------|-----------|------
-| 1 | [Plus One](./arrays/66-plus-one/) | Arrays | Easy | ✅ | 25 min | 2/27/2026
+| 1 | [Plus One](./arrays/66-plus-one/solution.js) | Arrays | Easy | ✅ | 25 min | 2/27/2026
 
 
 ### Status
