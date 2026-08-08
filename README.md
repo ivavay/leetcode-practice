@@ -14,7 +14,6 @@ Daily LeetCode practice focused on building pattern recognition and strengthenin
 | # | Problem | Pattern | Difficulty | Status | Time Taken | Date 
 |---|---------|---------|------------|--------|-----------|------
 | 1 | [Plus One](./arrays/66-plus-one/notes.md) | Arrays | Easy | ✅ | 25 min | 2/27/2026
-|---|---------|---------|------------|--------|-----------|------
 | 2 | [Single Number](./arrays/136-single-number/notes.md) | Arrays | Easy | 🔴 | 45 min | 8/8/2026
 ### Status
 
