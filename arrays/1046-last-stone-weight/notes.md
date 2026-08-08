@@ -1,4 +1,4 @@
-# last Stone Weight
+# Last Stone Weight
 
 ### What is the problem asking?
 
