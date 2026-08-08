@@ -11,11 +11,11 @@ Daily LeetCode practice focused on building pattern recognition and strengthenin
 
 ## Progress
 
-| # | Problem | Pattern | Difficulty | Status | Time Taken | Date 
+| # | Problem | Pattern | Difficulty | Status | Time Taken | Date | Link
 |---|---------|---------|------------|--------|-----------|------
-| 1 | [Plus One](./arrays/66-plus-one/notes.md) | Arrays | Easy | ✅ | 25 min | 2/27/2026
-| 2 | [Single Number](./arrays/136-single-number/notes.md) | Arrays | Easy | 🔴 | 45 min | 8/8/2026
-| 3 | [Missing Number](./arrays/268-missing-number/notes.md) | Arrays | Easy | 🟡 | 15 min | 8/8/2026
+| 1 | [Plus One](./arrays/66-plus-one/notes.md) | Arrays | Easy | ✅ | 25 min | 2/27/2026 | [Link](https://leetcode.com/problems/plus-one/description/)
+| 2 | [Single Number](./arrays/136-single-number/notes.md) | Arrays | Easy | 🔴 | 45 min | 8/8/2026 | [Link](https://leetcode.com/problems/single-number/)
+| 3 | [Missing Number](./arrays/268-missing-number/notes.md) | Arrays | Easy | 🟡 | 15 min | 8/8/2026 | [Link](https://leetcode.com/problems/missing-number/)
 ### Status
 
 - ✅ Solved independently
