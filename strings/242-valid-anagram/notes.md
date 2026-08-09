@@ -2,7 +2,7 @@
 
 ### What is the problem asking?
 
-See if the letters of the two scrambed strings are the same
+See if the letters of the two scrambled strings are the same
 
 ### Initial thought
 Sort letters by ascending order and compare the two strings/arrays
