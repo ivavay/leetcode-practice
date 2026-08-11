@@ -4,7 +4,7 @@
 Find the target's index and return it 
 
 ### Initial thought
-```
+```js
 var search = function(nums, target) {
     let targetIndex;
     if (nums.includes(target)) {
@@ -19,7 +19,7 @@ But it is linear O(n) time complexity, when it should be the the O(log n) requir
 
 ### Better approach
 
-```
+```js
 var search = function(nums, target) {
     // Search for target's index in a sorted array
 
@@ -52,4 +52,4 @@ var search = function(nums, target) {
 ```
 
 ### Key takeaway
-Binary search starts from finding the middle in a sorted array. If mediumn is smaller than target, then target must be on the right. Else, target is on the left. Left is the starting index. Right is the last index. 
+Binary search starts from finding the middle in a sorted array. If medium is smaller than target, then target must be on the right. Else, target is on the left. Left is the starting index. Right is the last index. 
