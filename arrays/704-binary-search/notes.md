@@ -52,4 +52,4 @@ var search = function(nums, target) {
 ```
 
 ### Key takeaway
-Binary search starts from finding the medium in a sorted array. If mediumn is smaller than target, then target must be on the right. Else, target is on the left. Left is the starting index. Right is the last index. 
+Binary search starts from finding the middle in a sorted array. If mediumn is smaller than target, then target must be on the right. Else, target is on the left. Left is the starting index. Right is the last index. 
