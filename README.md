@@ -19,6 +19,8 @@ Daily LeetCode practice focused on building pattern recognition and strengthenin
 | 4 | [Valid Anagram](./strings/242-valid-anagram/notes.md) | Strings | Easy | ✅ | 5 min | 8/8/2026 | [Link](https://leetcode.com/problems/valid-anagram/)  
 | 5 | [Last Stone Weight](./arrays/1046-last-stone-weight/notes.md) | Arrays | Easy | 🟡 | 40 min | 8/9/2026 | [Link](https://leetcode.com/problems/last-stone-weight/)  
 | 6 | [Best Time to Buy and Sell Stocks](./arrays/121-best-time-buy-sell-stocks/notes.md) | Arrays | Easy | 🔴  | 20 min | 8/11/2026 | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
+| 7 | [Binary Search](./arrays/704-binary-search/notes.md) | Arrays | Easy | 15 min | 🟡  | 8/11/2026 | [Link](https://leetcode.com/problems/binary-search/)  
+
 ### Status
 
 - ✅ Solved independently

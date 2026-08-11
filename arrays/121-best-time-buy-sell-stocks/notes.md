@@ -9,8 +9,8 @@
 
 ### Initial thought
 
-Find the max differences of values in array 
-But, maxValue must come after minValue 
+Find the max differences of values in array.
+But, maxValue must come after minValue.
 
 ### Better approach
 
